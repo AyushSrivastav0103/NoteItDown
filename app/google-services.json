@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676365736013",
+    "project_id": "noteitdown-bacbb",
+    "storage_bucket": "noteitdown-bacbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676365736013:android:d69930506eb43eb33a2404",
+        "android_client_info": {
+          "package_name": "com.example.noteitdown"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676365736013-b65erjiftgmie6tsnumdko9tihiv8iln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKFF42C6hLP9xOztdT3fp69CV2bQn_yNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676365736013-b65erjiftgmie6tsnumdko9tihiv8iln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
